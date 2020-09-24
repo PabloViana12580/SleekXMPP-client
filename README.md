@@ -1,8 +1,10 @@
 # SleekXMPP-client
 Proyecto individual de redes 2020. Consiste en desarrollar un cliente que utilice el protocolo XMPP y se comunique a través de un servidor (redes2020.xyz) con los demás clientes desarrollados por compañeros de clase.
 
+![Image of Yaktocat](https://octodex.github.com/daftpunktocat-thomas/)
+
 <p align="center">
-  <img src="./img/captura_interfaz.png" alt="Size Limit CLI" width="738">
+  <img src="https://github.com/PabloViana12580/SleekXMPP-client/tree/master/img/captura_interfaz.PNG" alt="Size Limit CLI" width="738">
 </p>
 
 ## Instalacion
@@ -25,4 +27,4 @@ python xmppclient.py -q
 - [x] Cerrar sesión
 - [x] Envio y personalizacion de mensajes de presencia 
 - [x] Enviar un archivo
-- [] Unirse a un grupo
+- [ ] Unirse a un grupo
