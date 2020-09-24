@@ -142,6 +142,7 @@ class SleekUser(sleekxmpp.ClientXMPP):
         self.plugin['xep_0045'].joinMUC(room,
                                     self.nick,
                                     wait=True)
+        print("Has sido agregado al grupo!")
 
     """Funcion para recibir un mensaje"""
     def message(self, msg):

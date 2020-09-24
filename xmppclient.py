@@ -156,7 +156,6 @@ if __name__ == '__main__':
                 
             #Public chat
             elif(choice == 6): 
-                xmpp.plugin['xep_0045'].joinMUC(xmpp.room, xmpp.nick)
                 print("\nPUBLIC CHAT\n")
                 msg_all = input("Message: ")
                 xmpp.send_message(mto='all', mbody=msg_all, mtype='groupchat')
@@ -171,7 +170,8 @@ if __name__ == '__main__':
             
             # add to group
             elif (choice == 8):
-                room = input("\n nombre del grupo: ")
+                room_name = input("\n nombre del grupo: ")
+                room = room_name + "conference.redes2020.xyz"
                 xmpp.add_to_group(room)
                 xmpp.room = room
 
