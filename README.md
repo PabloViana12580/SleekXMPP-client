@@ -3,9 +3,9 @@ Proyecto individual de redes 2020. Consiste en desarrollar un cliente que utilic
 
 <p align="center">
 
-![Image of Yaktocat](https://octodex.github.com/images/fintechtocat.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-![alt text](https://github.com/PabloViana12580/SleekXMPP-client/tree/master/img/captura_interfaz.PNG?raw=true)
+![interfaz](img/captura_interfaz.PNG)
 </p>
 
 ## Instalacion
