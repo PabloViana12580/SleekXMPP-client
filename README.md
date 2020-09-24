@@ -2,11 +2,15 @@
 Proyecto individual de redes 2020. Consiste en desarrollar un cliente que utilice el protocolo XMPP y se comunique a través de un servidor (redes2020.xyz) con los demás clientes desarrollados por compañeros de clase.
 
 <p align="center">
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 </p>
 
 <p align="center">
+
 ![interfaz](img/captura_interfaz.PNG)
+
 </p>
 
 ## Instalacion
