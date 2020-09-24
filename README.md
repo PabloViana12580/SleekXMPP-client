@@ -1,7 +1,9 @@
 # SleekXMPP-client
 Proyecto individual de redes 2020. Consiste en desarrollar un cliente que utilice el protocolo XMPP y se comunique a través de un servidor (redes2020.xyz) con los demás clientes desarrollados por compañeros de clase.
 
-##Instalacion
+![alt text](https://github.com/PabloViana12580/SleekXMPP-client/blob/master/captura_interfaz.png?raw=true)
+
+## Instalacion
 
 ```bash
 pip install -r requirements.txt
